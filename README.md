@@ -88,7 +88,7 @@ eye-blink-counter/
 ## 🧑‍💻 Author
 
 **[Mert Akgül]** – *Computer Vision & AI Enthusiast*  
-[Portfolio](#https://medium.com/@Mert.A/list/projects-6f9bb92a3c21) | [Blog](#https://medium.com/@Mert.A) | [LinkedIn](#www.linkedin.com/in/mert-akgül)
+[Portfolio](https://medium.com/@Mert.A/list/projects-6f9bb92a3c21) | [Blog](https://medium.com/@Mert.A) | [LinkedIn](https://www.linkedin.com/in/mert-akgül)
 
 ---
 
