@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import time
-import matplotlib.pyplot as plt
 from FaceMeshModule import FaceMeshDetector
 import pygame
 
@@ -46,7 +45,6 @@ def get_eye_aspect_ratio(p1, p2, p3, p4, p5, p6):
 
 
 if __name__ == "__main__":
-    fig = plt.figure()
     cap = cv2.VideoCapture(0)
     pTime = 0
     detector = FaceMeshDetector(refine_landmarks=True)

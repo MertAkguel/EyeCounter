@@ -2,4 +2,3 @@ numpy
 mediapipe
 pygame
 opencv-python
-matplotlib
