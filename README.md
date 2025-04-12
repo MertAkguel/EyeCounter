@@ -73,7 +73,6 @@ eye-blink-counter/
 - [MediaPipe](https://google.github.io/mediapipe/) – facial landmark detection
 - [NumPy](https://numpy.org/) – distance calculations
 - [PyGame](https://www.pygame.org/) – sound playback
-- [Matplotlib](https://matplotlib.org/) – optional for plotting results
 
 ---
 
@@ -88,8 +87,8 @@ eye-blink-counter/
 
 ## 🧑‍💻 Author
 
-**[Your Name]** – *Computer Vision & AI Enthusiast*  
-[Portfolio](#) | [Blog](#) | [LinkedIn](#) | [Twitter](#)
+**[Mert Akgül]** – *Computer Vision & AI Enthusiast*  
+[Portfolio](#https://medium.com/@Mert.A/list/projects-6f9bb92a3c21) | [Blog](#https://medium.com/@Mert.A) | [LinkedIn](#www.linkedin.com/in/mert-akgül)
 
 ---
 
