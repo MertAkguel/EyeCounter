@@ -4,9 +4,6 @@ import time
 from FaceMeshModule import FaceMeshDetector
 import pygame
 
-# WENN DU DAS ALS BLOG VERÖFFENTLICHEN WILLST, MUSST DU EINIGES NEU STRUKTURIEREN UND NEU BENENNEN,
-# DAMIT ES FÜR ALLE GUT VERSTÄNDLICH IST
-
 pygame.init()
 
 # you can download it here: https://pixabay.com/sound-effects/click-124467/
