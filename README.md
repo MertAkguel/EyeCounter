@@ -49,24 +49,6 @@ Press `Q` to exit.
 
 ---
 
-## 🖼️ Where to Put the GIF
-
-- Create a folder called `media` in the project root.
-- Save your recorded GIF there as `demo.gif`.
-- Your folder structure should look like this:
-```
-eye-blink-counter/
-│
-├── FaceMeshModule.py
-├── Eyeblinker.py
-├── click-124467.mp3
-├── README.md
-└── media/
-    └── demo.gif
-```
-
----
-
 ## 🛠️ Technologies Used
 
 - [OpenCV](https://opencv.org/) – image processing & webcam capture
